@@ -17,7 +17,6 @@ Dockerfile for Shibboleth IDP
 
 ## Quick Start
 
-## Quick Start
 
 Here's how to get started...
 
@@ -52,7 +51,7 @@ make it
 
 For additional context, refer to some of these links.
 
-- [Serverless Framework](https://serverless.com/framework/docs/) - Serverless Framework Dcoumentation
+- [Docker](https://docs.docker.com/) - Docker Documentation
 ## Contributing
 
 ### Bug Reports & Feature Requests
